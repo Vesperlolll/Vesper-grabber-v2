@@ -10,4 +10,3 @@ pip install pyperclip
 pip install opencv-python
 pip install pyinstaller
 pip install undetected_chromedriver 
-pip install pynput
